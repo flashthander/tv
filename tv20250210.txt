@@ -58,3 +58,5 @@ CCTV20241,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/strea
 电视剧频道,#genre#
 仙剑奇侠传,http://wab201.win:35455/yy/1382749903
 知否知否,http://zby.xjqxz.top/zfzf/live.m3u8
+地方频道,#genre#
+南通一套,https://nt-hls.ntjoy.com/live/4f1.m3u8?t=1740323927&k=2f76691a1ea38910f17c371a8f3b0fb0
