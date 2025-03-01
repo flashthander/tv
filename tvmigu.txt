@@ -69,7 +69,6 @@ CCTV20241,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/strea
 电视剧频道,#genre#
 知否知否,http://zby.xjqxz.top/zfzf/live.m3u8
 地方频道,#genre#
-南通一套,https://nt-hls.ntjoy.com/live/4f1.m3u8?t=1740828836&k=68cfe1c80901d1448b75ac4
-南通二套,https://nt-hls.ntjoy.com/live/4f3.m3u8?t=1740828836&k=48c8dd0776b6db1ffadedc72027bd45c
+南通一套,https://nt-hls.ntjoy.com/live/4f1.m3u8?t=1740829226&k=a31bbbff0b8719b6c2e59c8b917c10ab
 
 
